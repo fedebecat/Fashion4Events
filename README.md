@@ -8,3 +8,6 @@ Each image is paired with a social event category among the following:
     orig_class_names = ["concert", "graduation", "meeting", "mountain-trip", "picnic",
                    "sea-holiday", "ski-holiday", "wedding", "conference", "exhibition", "fashion",
                    "protest", "sport", "theater-dance"]
+
+
+Files can be downloaded from: [Google Drive](https://drive.google.com/drive/folders/1bgXykJSwWICoZeB8Kx79wnchDxrRbXp7?usp=sharing)
