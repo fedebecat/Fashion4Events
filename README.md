@@ -15,14 +15,12 @@ Files can be downloaded from: [Google Drive](https://drive.google.com/drive/fold
 If you use this dataset, please cite our preprint:
 
 ```
-   @misc{https://doi.org/10.48550/arxiv.2208.00725,
-   doi = {10.48550/ARXIV.2208.00725},
-   url = {https://arxiv.org/abs/2208.00725},
-   author = {Becattini, Federico and De Divitiis, Lavinia and Baecchi, Claudio and Del Bimbo, Alberto},
-   keywords = {Computer Vision and Pattern Recognition (cs.CV), Information Retrieval (cs.IR), FOS: Computer and information sciences, FOS: Computer and information sciences},
-   title = {Fashion Recommendation Based on Style and Social Events},
-   publisher = {arXiv},
-   year = {2022},
-   copyright = {Creative Commons Attribution 4.0 International}
-   }
+@article{becattini2023fashion,
+  title={Fashion recommendation based on style and social events},
+  author={Becattini, Federico and De Divitiis, Lavinia and Baecchi, Claudio and Bimbo, Alberto Del},
+  journal={Multimedia Tools and Applications},
+  pages={1--16},
+  year={2023},
+  publisher={Springer}
+}
 ```
