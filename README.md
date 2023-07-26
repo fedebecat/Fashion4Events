@@ -12,7 +12,7 @@ Each image is paired with a social event category among the following:
 
 Files can be downloaded from: [Google Drive](https://drive.google.com/drive/folders/1bgXykJSwWICoZeB8Kx79wnchDxrRbXp7?usp=sharing)
 
-If you use this dataset, please cite our preprint:
+If you use this dataset, please cite our [paper](https://link.springer.com/article/10.1007/s11042-023-15290-4):
 
 ```
 @article{becattini2023fashion,
